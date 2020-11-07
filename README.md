@@ -1,1 +1,1 @@
-# Java-Parking-w-Swing-GUI-
+# Java Parking w/ SwingGUI
